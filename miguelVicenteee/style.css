@@ -1,0 +1,29 @@
+
+body{
+    background-color: black;
+}
+.cabeçalho{
+    color: white;
+    background-color: #8B008B;
+}
+.div{
+    position: static;
+    background-color:#4B0082;
+}
+.div2{
+    background-color: #C71585;
+}
+.conteudo{
+    color:#EE82EE;
+    
+}
+.container{
+    height: 800px;
+}
+.rodape{
+    color: #8B008B;
+    background-color: #5c005c;
+}
+.cantor{
+    color: #9400D3;
+}
